@@ -1,7 +1,6 @@
 # StyxBlog
 Isinya gak penting, mending di close aja :p
 
-======
 Typhography - http://styxc.blogspot.co.id/2016/08/typography.html
 ======
 embed github gist<br/>
