@@ -12,11 +12,9 @@ PrismJS<br/>
 <br/><br/>
 
 PrismJS Plugin Linenumber<br/>
-&lt;pre class=&quot;line-numbers language-php&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;
-&amp;lt;?php
-echo &amp;quot;PrismJS is awesome Syntaxhighlight&amp;quot;;
-?&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&quot;line-numbers language-php&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;&lt;?php
+echo &quot;PrismJS is awesome Syntaxhighlight&quot;;
+?&gt;&lt;/code&gt;&lt;/pre&gt;
 <br/><br/>
 
 
